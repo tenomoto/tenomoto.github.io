@@ -29,7 +29,7 @@ LZW圧縮してもファイルサイズ大きい3倍くらいになる。圧縮�
 </span>
 gsの-sDEVICE=tifflzwはモノクロなので、一旦非圧縮の24bitカラーに出力してからconvertで変換している。
 
-追記: pdftkでまとめるのが良い。MacPortsではgcc-4.5のバグ?のため、コンパイルできないのでバイナリをインストール。サイズは<a href="https://www.enomosphere.net/2012/04/26/pdf%e3%81%ae%e5%9c%a7%e7%b8%ae/">pdfsizeopt</a>でAcrobat並みのサイズになった。
+追記: pdftkでまとめるのが良い。MacPortsではgcc-4.5のバグ?のため、コンパイルできないのでバイナリをインストール。サイズは<a href="/2012/04/26/pdf-compression/">pdfsizeopt</a>でAcrobat並みのサイズになった。
 <ol>
  	<li>ghostscriptでPDFのページを分解してtiffにする。</li>
  	<li>tesseract-ocrでOCRしてhocr2pdf用のHTMLを作成。</li>

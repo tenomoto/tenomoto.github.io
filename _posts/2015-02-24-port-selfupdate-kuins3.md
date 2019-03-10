@@ -17,7 +17,7 @@ tags:
 <h3>1 ネットワーク環境設定</h3>
 念のためシステムの設定を確認。
 
-<a href="https://www.enomosphere.net/wp-content/uploads/2015/02/network_preference.png"><img class="alignnone size-medium wp-image-574" src="https://www.enomosphere.net/wp-content/uploads/2015/02/network_preference-300x260.png" alt="network_preference" width="300" height="260" /></a>
+<a href="/wp-content/uploads/2015/02/network_preference.png"><img class="alignnone size-medium wp-image-574" src="/wp-content/uploads/2015/02/network_preference-300x260.png" alt="network_preference" width="300" height="260" /></a>
 <ul>
 	<li>「システム環境設定」&gt;「ネットワーク」で接続しているインターフェースを左から選択し，「詳細...」ボタンをクリック。</li>
 	<li>「プロキシ」タブ上の「構成するプロトコロルを選択」中「自動プロキシ構成」をチェックし「プロキシ構成ファイル」URLに</li>

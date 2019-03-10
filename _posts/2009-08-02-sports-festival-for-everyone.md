@@ -25,4 +25,4 @@ tags:
 
 中田市長もあいさつしたが，本番では名前がでなかった．長野先生が忘れたのか，それとも体操しないでかえったのか．<a href="http://www.rajio-taiso.jp/">ラジオ体操連盟</a>の皆さんは，15分のために全国から集まる.
 
-<a href="https://www.enomosphere.net/wp-content/uploads/2009/08/ttaiso.jpg"><img id="BLOGGER_PHOTO_ID_5365245664824216930" style="float: left; margin: 0 10px 10px 0; cursor: hand; width: 200px; height: 150px;" src="https://www.enomosphere.net/wp-content/uploads/2009/08/ttaiso-300x225.jpg" alt="" border="0" /></a>
+<a href="/wp-content/uploads/2009/08/ttaiso.jpg"><img id="BLOGGER_PHOTO_ID_5365245664824216930" style="float: left; margin: 0 10px 10px 0; cursor: hand; width: 200px; height: 150px;" src="/wp-content/uploads/2009/08/ttaiso-300x225.jpg" alt="" border="0" /></a>

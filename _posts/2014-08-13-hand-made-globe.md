@@ -14,7 +14,7 @@ tags:
 ---
 <span style="color: #000000;">京都大学大学院理学研究科の齊藤昭則先生らによる<a title="Dagik Earth" href="http://www.dagik.net">Dagikプロジェクト</a>では，地球儀の<a href="http://www.dagik.net/手作り地球儀/">作り方</a>を紹介し，<a href="http://dagik.org/data/globe/">型紙</a>を提供している。</span><!--more-->
 
-型紙の代わりの<a href="https://www.enomosphere.net/wp-content/uploads/2014/08/polyconic_coast-crop.pdf">白地図</a>を<a href="http://gmt.soest.hawaii.edu">GMT</a>で作成した。30度毎の舟型多円錐図法（polyconic projection）を並べた。<a href="https://www.enomosphere.net/wp-content/uploads/2014/08/polyconic_coast-crop.png"><img class="alignnone size-medium wp-image-533" src="https://www.enomosphere.net/wp-content/uploads/2014/08/polyconic_coast-crop-300x150.png" alt="polyconic_coast-crop" width="300" height="150" /></a>
+型紙の代わりの<a href="/wp-content/uploads/2014/08/polyconic_coast-crop.pdf">白地図</a>を<a href="http://gmt.soest.hawaii.edu">GMT</a>で作成した。30度毎の舟型多円錐図法（polyconic projection）を並べた。<a href="/wp-content/uploads/2014/08/polyconic_coast-crop.png"><img class="alignnone size-medium wp-image-533" src="/wp-content/uploads/2014/08/polyconic_coast-crop-300x150.png" alt="polyconic_coast-crop" width="300" height="150" /></a>
 
 Macのプレビューで印刷するときは，既定では紙に合わせて画像が拡大縮小されてしまうので，100 %になるように設定する。
 

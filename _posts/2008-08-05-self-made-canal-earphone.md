@@ -23,4 +23,4 @@ tags:
 ---
 音が出る面を前向きにして、耳に入れてみましょう。iPod/iPhone添付のヘッドフォンでも、音が大きくなり低音もよく出ているように感じました。カナル型のノイズキャンセリングホンを愛用していましたが、この方法なら地下鉄でも大丈夫です。耳の形状によっては、うまく入らなかったり、落ちてしまうこともあるかもしれません。
 
-<a href="https://www.enomosphere.net/wp-content/uploads/2008/08/headphone.jpg"><img id="BLOGGER_PHOTO_ID_5365257439835191426" style="float: left; margin: 0 10px 10px 0; cursor: hand; width: 150px; height: 200px;" src="https://www.enomosphere.net/wp-content/uploads/2008/08/headphone-225x300.jpg" alt="" border="0" /></a>
+<a href="/wp-content/uploads/2008/08/headphone.jpg"><img id="BLOGGER_PHOTO_ID_5365257439835191426" style="float: left; margin: 0 10px 10px 0; cursor: hand; width: 150px; height: 200px;" src="/wp-content/uploads/2008/08/headphone-225x300.jpg" alt="" border="0" /></a>

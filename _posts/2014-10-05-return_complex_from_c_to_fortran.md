@@ -13,7 +13,7 @@ tags:
   - Fortran
   - macports
 ---
-I wrote a wrapper in Fortran called <a href="https://github.com/tenomoto/dotwrp">dotwrp</a> to avoid the problems in Accelerate (more specifically vecLib) framework (related <a title="Accelerateのcdotu, cdotc, zdotc, zdotuで出るsegmentation faultを回避する" href="https://www.enomosphere.net/2010/08/09/accelerate%e3%81%aecdotu-cdotc-zdotc-zdotu%e3%81%a7%e5%87%ba%e3%82%8bsegmentation-fault%e3%82%92%e5%9b%9e%e9%81%bf%e3%81%99%e3%82%8b/">post</a> in Japanese).<!--more-->
+I wrote a wrapper in Fortran called <a href="https://github.com/tenomoto/dotwrp">dotwrp</a> to avoid the problems in Accelerate (more specifically vecLib) framework (related <a title="Accelerateのcdotu, cdotc, zdotc, zdotuで出るsegmentation faultを回避する" href="/2010/08/09/accelerate-cdotu-cdotc-zdotc-zdotu-segmentation-fault-workaround/">post</a> in Japanese).<!--more-->
 
 I <a href="https://github.com/tenomoto/dotwrp/commit/d5816854fd4e97e44fe82bca519e1f174dd17408">merged</a> the pull request from <a href="https://github.com/mcg1969">mcg1969</a> who contributed C version of dotwrp several months ago. He created a more capable package called <a title="vecLibFort" href="https://github.com/mcg1969/vecLibFort">vecLibFort</a>. I created a <a href="https://svn.macports.org/repository/macports/trunk/dports/devel/vecLibFort/">port</a> of vecLibFort for MacPorts.
 

@@ -20,7 +20,7 @@ tags:
   - macports
   - Octave
 ---
-Accelerate.frameworkには，<a href="https://www.enomosphere.net/2010/08/09/accelerate%e3%81%aecdotu-cdotc-zdotc-zdotu%e3%81%a7%e5%87%ba%e3%82%8bsegmentation-fault%e3%82%92%e5%9b%9e%e9%81%bf%e3%81%99%e3%82%8b/">問題</a>があるために，octaveは行列ライブラリとしてatlasに依存させている．
+Accelerate.frameworkには，<a href="/2010/08/09/accelerate-cdotu-cdotc-zdotc-zdotu-segmentation-fault-workaround/">問題</a>があるために，octaveは行列ライブラリとしてatlasに依存させている．
 
 atlasはコンパイルに時間がかかる上に, g95のvariantがない．gcc44のコンパイルも加えると，かなり長い時間かかる．
 

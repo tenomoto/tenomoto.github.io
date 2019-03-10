@@ -14,7 +14,7 @@ tags:
 ---
 PLplotの最初の<a href="http://plplot.sourceforge.net/examples.php?demo=00">例</a>をSwiftに移植してみた。<!--more-->
 
-<a href="https://www.enomosphere.net/wp-content/uploads/2014/08/simple.png"><img class="alignnone size-medium wp-image-499" src="https://www.enomosphere.net/wp-content/uploads/2014/08/simple-300x225.png" alt="simple" width="300" height="225" /></a>
+<a href="/wp-content/uploads/2014/08/simple.png"><img class="alignnone size-medium wp-image-499" src="/wp-content/uploads/2014/08/simple-300x225.png" alt="simple" width="300" height="225" /></a>
 
 プリプロセッサでの#defineは，定数には対応しているが別名には対応していないようで，pl*()ではなくc_pl*()を直接書く必要がある。PLINTはInt32なので，配列の要素数はInt()で型変換する必要がある。コマンドライン引数argc, argvは，SwiftではC_ARGC，C_ARGVかProcess.argumentsで<a href="http://stackoverflow.com/questions/24110731/how-to-i-access-argv-and-argc-in-swift">参照できる</a>。Process.argumentsは[String]を，C_ARGVはUnsafePointer&lt;Int8&gt;を返すので，どちらかをUnsafeMutablePointer()でキャストして渡す。
 <h3>main.swift</h3>

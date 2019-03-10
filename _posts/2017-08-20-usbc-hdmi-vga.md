@@ -44,20 +44,20 @@ VGAとHDMIは排他で解像度は2K (1920x1080)まで。WQHDのモニタにつ�
 
 開封前の箱
 
-<a href="https://www.enomosphere.net/wp-content/uploads/2017/08/IMG_2275-e1503197663522.jpg"><img class="alignnone size-medium wp-image-873" src="https://www.enomosphere.net/wp-content/uploads/2017/08/IMG_2275-e1503197663522-300x238.jpg" alt="" width="300" height="238" /></a>
+<a href="/wp-content/uploads/2017/08/IMG_2275-e1503197663522.jpg"><img class="alignnone size-medium wp-image-873" src="/wp-content/uploads/2017/08/IMG_2275-e1503197663522-300x238.jpg" alt="" width="300" height="238" /></a>
 
 表。見た目より軽い。
 
-<a href="https://www.enomosphere.net/wp-content/uploads/2017/08/IMG_2279-e1503197762542.jpg"><img class="alignnone size-medium wp-image-869" src="https://www.enomosphere.net/wp-content/uploads/2017/08/IMG_2279-e1503197762542-300x217.jpg" alt="" width="300" height="217" /></a>
+<a href="/wp-content/uploads/2017/08/IMG_2279-e1503197762542.jpg"><img class="alignnone size-medium wp-image-869" src="/wp-content/uploads/2017/08/IMG_2279-e1503197762542-300x217.jpg" alt="" width="300" height="217" /></a>
 
 裏にUSB-Cケーブル。忘れたりなくしたりしないで済むが，縦置きが困難。
 
-<a href="https://www.enomosphere.net/wp-content/uploads/2017/08/IMG_2276.jpg"><img class="alignnone size-medium wp-image-872" src="https://www.enomosphere.net/wp-content/uploads/2017/08/IMG_2276-300x225.jpg" alt="" width="300" height="225" /></a>
+<a href="/wp-content/uploads/2017/08/IMG_2276.jpg"><img class="alignnone size-medium wp-image-872" src="/wp-content/uploads/2017/08/IMG_2276-300x225.jpg" alt="" width="300" height="225" /></a>
 
 長辺にCF/TF/SDとUSB 3.0
 
-<a href="https://www.enomosphere.net/wp-content/uploads/2017/08/IMG_2277-e1503197695789.jpg"><img class="alignnone size-medium wp-image-871" src="https://www.enomosphere.net/wp-content/uploads/2017/08/IMG_2277-e1503197695789-300x49.jpg" alt="" width="300" height="49" /></a>
+<a href="/wp-content/uploads/2017/08/IMG_2277-e1503197695789.jpg"><img class="alignnone size-medium wp-image-871" src="/wp-content/uploads/2017/08/IMG_2277-e1503197695789-300x49.jpg" alt="" width="300" height="49" /></a>
 
 反対側にUSB-C, 3.5mm, VGA, HDMI
 
-<a href="https://www.enomosphere.net/wp-content/uploads/2017/08/IMG_2278-e1503197722314.jpg"><img class="alignnone size-medium wp-image-870" src="https://www.enomosphere.net/wp-content/uploads/2017/08/IMG_2278-e1503197722314-300x59.jpg" alt="" width="300" height="59" /></a>
+<a href="/wp-content/uploads/2017/08/IMG_2278-e1503197722314.jpg"><img class="alignnone size-medium wp-image-870" src="/wp-content/uploads/2017/08/IMG_2278-e1503197722314-300x59.jpg" alt="" width="300" height="59" /></a>
