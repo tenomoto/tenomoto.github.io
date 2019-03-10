@@ -21,9 +21,9 @@ tags:
   - NetCDF
   - VTK
 ---
-<a href="https://www.enomosphere.net/wp-content/uploads/2006/12/ncvtk_carbon.png"><img id="BLOGGER_PHOTO_ID_5282839820657730210" style="float: left; margin: 0 10px 10px 0; cursor: hand; width: 200px; height: 150px;" src="https://www.enomosphere.net/wp-content/uploads/2006/12/ncvtk_carbon-300x225.png" alt="" border="0" /></a>
-
 Ncvtkを実際に使って、画像やムービーを作成してみる。
+
+<a href="/wp-content/uploads/2006/12/ncvtk_carbon.png"><img id="BLOGGER_PHOTO_ID_5282839820657730210" style="float: left; margin: 0 10px 10px 0; cursor: hand; width: 200px; height: 150px;" src="/wp-content/uploads/2006/12/ncvtk_carbon-300x225.png" alt="" border="0" /></a>
 <ul>
  	<li>ターミナルでncvtk2と打つと起動する．</li>
  	<li>可視化できるのはCDCの規約に準拠したnetCDFである．</li>

@@ -21,8 +21,9 @@ tags:
   - bicubic
   - legendre
 ---
-<a href="https://www.enomosphere.net/wp-content/uploads/2008/04/eq_preview.png"><img id="BLOGGER_PHOTO_ID_5194235768212276962" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="https://www.enomosphere.net/wp-content/uploads/2008/04/eq_preview-300x287.png" alt="" border="0" /></a>
 多くの数値予報モデルや気候モデルには，時間刻み幅を大きくし，移流を正確に計算するために，セミ・ラグランジュ法が用いられています．オイラー移流と比較して，分散性が少ないが消散があります．空間スケールの小さな構造が減衰して，大気の観測されるスペクトルの表現が困難です．
+
+<a href="/wp-content/uploads/2008/04/eq_preview.png"><img id="BLOGGER_PHOTO_ID_5194235768212276962" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="/wp-content/uploads/2008/04/eq_preview-300x287.png" alt="" border="0" /></a>
 
 スペクトルモデルでは，微分が正確に計算できます．このようにして求めた微分係数を双3次内挿法に適用したところ，従来のモデルで用いられてきた双3次ラグランジュ内挿法よりも消散を小さくすることができました．
 

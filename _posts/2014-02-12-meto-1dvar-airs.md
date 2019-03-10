@@ -16,7 +16,10 @@ tags:
   - AIRS
   - retrieval
 ---
-今度はAIRSのサンプルを動かしてみる。<!--more-->test.shにもう少し汎用性を持たせてみる。
+今度はAIRSのサンプルを動かしてみる。
+<!--more-->
+
+test.shにもう少し汎用性を持たせてみる。
 <pre><code>SATELLITE=EOS
 INSTRUMENT=AIRS
 

@@ -21,6 +21,7 @@ tags:
   - Windows
 ---
 <p lang="ja-JP" style="margin-bottom: 0cm;">Windows 7が出たところですが，Macユーザにも使いやすいようにWindows XPを整備してみました．Yahoo!動画だけではもったいないので．インストールも何度も再起動して大変ですが，使える環境にするのも結構大変です．UIを似せることにはこだわらず，シンプルにいきます．</p>
+
 <p lang="ja-JP" style="margin-bottom: 0cm;"><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;">Microsoft</span></span></p>
 <p lang="ja-JP" style="margin-bottom: 0cm;"></p>
 

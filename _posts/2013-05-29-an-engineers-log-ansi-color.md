@@ -1,6 +1,6 @@
 ---
 id: 282
-title: 'An Engineer&#8217;s Log: 理想の ANSI Color を作ってみる'
+title: 理想の ANSI Color を作ってみる
 date: 2013-05-29T00:27:33+09:00
 author: takeshi
 layout: post
@@ -16,7 +16,8 @@ tags:
   - Terminal
 format: link
 ---
-<a href='http://anengineer.tumblr.com/post/25024241014/ansi-color'>An Engineer's Log: 理想の ANSI Color を作ってみる</a><div class="link_description"><p><a href="http://anengineer.tumblr.com/post/25024241014/ansi-color" class="tumblr_blog">anengineer</a>:</p>
+[An Engineer's Log: 理想の ANSI Color を作ってみる](http://anengineer.tumblr.com/post/25024241014/ansi-color)
+<!--more-->
 
 <blockquote>
 <p>どうも生の ANSI Color の配色って見にくいので、

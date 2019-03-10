@@ -12,7 +12,9 @@ tags:
   - clang
   - openmp
 ---
-MacやFreeBSDのデフォルトのコンパイラはclangだが，数値計算ではOpenMPが使えるgccに一日の長がある。ClangでもOpenMPはないのかと思い検索したところ，<a title="OpenMP/Clang" href="http://clang-omp.github.io">OpenMP/Clang</a>があることを知り，試してみた。<!--more-->
+MacやFreeBSDのデフォルトのコンパイラはclangだが，数値計算ではOpenMPが使えるgccに一日の長がある。ClangでもOpenMPはないのかと思い検索したところ，<a title="OpenMP/Clang" href="http://clang-omp.github.io">OpenMP/Clang</a>があることを知り，試してみた。
+<!--more-->
+
 <h2>コンパイラ</h2>
 <a title="OpenMP/Clang" href="http://clang-omp.github.io">OpenMP/Clang</a>のGetting the source codeの通りにソースを取得。同BuildingにあるようにClangの<a href="http://clang.llvm.org/get_started.html">Getting Started Building and Running Clang</a>に従ってコンパイル。llvmとclangをコンパイルするので時間がかかるが，Mavericksでは何の問題もなく終了した。buildというディレクトリからconfigureとmakeをすると，build/Debug+Asserts以下にbinとlibができる。
 <h2>実行時ライブラリ</h2>

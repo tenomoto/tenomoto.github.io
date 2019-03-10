@@ -19,4 +19,10 @@ categories:
 tags:
   - vim
 ---
-HTMLやCSSを手早く書くためのvimスクリプト<a href="http://mattn.kaoriya.net/software/vim/20100306021632.htm">zencoding.vim</a><br /><br />~/.vim/bundleに<a href="https://github.com/tpope/vim-pathogen">pathogen</a>をclone.<br /><br />~/.vim/autoload/にautoload/pathogen.vimのリンクを張る.<br /><br />.vimrcの設定.<br /><pre><br />call pathogen#runtime_append_all_bundles()<br />call pathogen#helptags()<br /></pre>
+HTMLやCSSを手早く書くためのvimスクリプト<a href="http://mattn.kaoriya.net/software/vim/20100306021632.htm">zencoding.vim</a>
+
+~/.vim/bundleに<a href="https://github.com/tpope/vim-pathogen">pathogen</a>をclone.
+
+~/.vim/autoload/にautoload/pathogen.vimのリンクを張る.
+
+.vimrcの設定.<br /><pre><br />call pathogen#runtime_append_all_bundles()<br />call pathogen#helptags()<br /></pre>

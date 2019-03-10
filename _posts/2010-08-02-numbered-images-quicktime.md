@@ -21,6 +21,7 @@ tags:
   - QuickTime
 ---
 <a href="http://macwiki.sourceforge.jp/wiki/index.php/QuickTime#AppleScript">MacWiki</a>にあるものを少し修正. Snow LeopardではQuicktime PlayerではなくQuickTime Player 7とする.
+
 <pre>tell application "QuickTime Player"
  activate
  set firstFile to choose file with prompt "連番の最初のファイルを選択"

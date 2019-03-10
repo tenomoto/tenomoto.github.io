@@ -20,4 +20,18 @@ tags:
   - dlang
   - PLplot
 ---
-D言語のbindingとcairo/pangoドライバをvariantsとして追加．cairoドライバによりPDFが作成できるようになる．g95, gdc, cairoを有効にしてインストールするには，<br /><pre>sudo port -d install plplot +g95 +gdc +cairo<br /></pre>とする．<br /><br />D言語サンプルは，bindingがexperimentalなので少ないが，/opt/local/share/plplot-5.9.2/examples/dにいくつかある．コンパイルは，ヘッダ/opt/local/include/plplot/plplot.d，モジュール本体は/opt/local/lib/libplplotd.dylibなので，<br /><pre>gdmd -I/opt/local/include/plplot x03d.d /opt/local/lib/libplplotd.dylib</pre>とする．gdcでなくgdmdを使うとソースコードから.dをとった名前のバイナリができる．簡単なプログラムでは便利．-lオプションはないようだ．
+D言語のbindingとcairo/pangoドライバをvariantsとして追加．cairoドライバによりPDFが作成できるようになる．g95, gdc, cairoを有効にしてインストールするには，
+
+```bash
+sudo port -d install plplot +g95 +gdc +cairo
+```
+
+とする．
+
+D言語サンプルは，bindingがexperimentalなので少ないが，`/opt/local/share/plplot-5.9.2/examples/d`にいくつかある．コンパイルは，ヘッダ`/opt/local/include/plplot/plplot.d`，モジュール本体は`/opt/local/lib/libplplotd.dylib`なので，
+
+```bash
+$ gdmd -I/opt/local/include/plplot x03d.d /opt/local/lib/libplplotd.dylib
+```
+
+とする．gdcでなくgdmdを使うとソースコードから.dをとった名前のバイナリができる．簡単なプログラムでは便利．`-l`オプションはないようだ．

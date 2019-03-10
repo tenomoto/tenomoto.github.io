@@ -21,7 +21,9 @@ tags:
   - TeX
   - TeXShop
 ---
-奥村先生の<a href="http://oku.edu.mie-u.ac.jp/~okumura/texwiki/?TeXShop">ページ</a>に書いてありますが，シンボリックリンクを使って少し手抜き。<!--more-->pdfplatexだけを使う場合は最初のシェルスクリプトだけでもよい。
+奥村先生の<a href="http://oku.edu.mie-u.ac.jp/~okumura/texwiki/?TeXShop">ページ</a>に書いてありますが，シンボリックリンクを使って少し手抜き。<!--more-->
+
+pdfplatexだけを使う場合は最初のシェルスクリプトだけでもよい。
 <pre>$ cd ~/Library/TeXShop/bin
 $ cat pdfeptex
 #!/bin/sh

@@ -1,6 +1,6 @@
 ---
 id: 285
-title: 'HT5321 Equation numbering and cross&#8230;: Apple Support Communities'
+title: HT5321 Equation numbering and cross
 date: 2013-05-23T19:52:24+09:00
 author: takeshi
 layout: post
@@ -16,4 +16,4 @@ tags:
   - ibooksauthor
 format: link
 ---
-<a href='https://discussions.apple.com/thread/4470660?start=0&amp;tstart=0'>HT5321 Equation numbering and cross...: Apple Support Communities</a><div class="link_description"><p>Equation numbering may be done by hand in LaTeX.</p></div>
+<a href='https://discussions.apple.com/thread/4470660?start=0&amp;tstart=0'>HT5321 Equation numbering and cross...: Apple Support Communities</a>

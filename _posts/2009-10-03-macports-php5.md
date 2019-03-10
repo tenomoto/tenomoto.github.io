@@ -21,7 +21,9 @@ tags:
   - macports
   - PHP
 ---
-Snow LeopardのPHP5はGDが有効化されているが，freetypeがサボートされていない．そこでMacPortsからインストール
+Snow LeopardのPHP5はGDが有効化されているが，freetypeがサボートされていない．
+
+そこでMacPortsからインストール
 MacPortsの<a href="http://trac.macports.org/wiki/howto/MAMP">HowTo</a>も参考に．
 <pre>
 $ sudo port -d install php5 +pear

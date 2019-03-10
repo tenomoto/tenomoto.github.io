@@ -20,6 +20,7 @@ tags:
   - NCL
 ---
 NCLを-hオプションを付けて起動させれば，オプション一覧が表示される。<!--more-->
+
 <pre>$ ncl -h
 Usage: ncl -hnpxV  
   -n: don't enumerate values in print()

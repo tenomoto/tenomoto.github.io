@@ -12,7 +12,9 @@ tags:
   - CoreStorage
   - Mac
 ---
-Mac Pro (Early 2008)に4つの6TBハードディスクが内蔵して使っている。<a href="https://openzfsonosx.org">OpenZFS</a>を使っていたのだが，Yosemiteでは不安定な上に，以下を試したがSpotlightが有効にならない。<!--more-->
+Mac Pro (Early 2008)に4つの6TBハードディスクが内蔵して使っている。<a href="https://openzfsonosx.org">OpenZFS</a>を使っていたのだが，Yosemiteでは不安定な上に，以下を試したがSpotlightが有効にならない。
+<!--more-->
+
 <ul>
 	<li>mdutil -i on ボリューム名</li>
 	<li>zpool/zfs upgrade</li>

@@ -20,7 +20,10 @@ categories:
 tags:
   - iPhone
 ---
-<a href="https://www.enomosphere.net/wp-content/uploads/2008/08/case.jpg"><img id="BLOGGER_PHOTO_ID_5365257119290594306" style="float: left; margin: 0 10px 10px 0; cursor: hand; width: 150px; height: 200px;" src="https://www.enomosphere.net/wp-content/uploads/2008/08/case-225x300.jpg" alt="" border="0" /></a><a href="http://www.amazon.co.jp/gp/search?ie=UTF8&amp;keywords=Belkin%20iPhone&amp;tag=enomospheddoj-22&amp;index=blended&amp;linkCode=ur2&amp;camp=247&amp;creative=1211">Belkin</a>のiPhone 3G用ケースLeather Flip Folioを購入。カードが入るフタがついている。SuicaやPASMOなどICカードを入れれば、電車にも乗れるし買い物もできる。
+
+BelkinのiPhone 3G用ケースLeather Flip Folioを購入。カードが入るフタがついている。SuicaやPASMOなどICカードを入れれば、電車にも乗れるし買い物もできる。
+
+<a href="/wp-content/uploads/2008/08/case.jpg"><img id="BLOGGER_PHOTO_ID_5365257119290594306" style="float: left; margin: 0 10px 10px 0; cursor: hand; width: 150px; height: 200px;" src="/wp-content/uploads/2008/08/case-225x300.jpg" alt="" border="0" /></a>
 
 液晶保護シート付でケースをしたまま充電もできる。ひとつ残念なのは、せっかくレンズ用の穴があるのに、奥までiPhoneを入れると穴がレンズにかぶってしまうこと。
 

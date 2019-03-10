@@ -21,6 +21,8 @@ tags:
   - TeX
 ---
 Mendeleyはクラウド対応の文献管理アプリケーション。Wordでの引用、文献リスト作成にはMendeleyが便利。
+<!--more-->
+
 ToolsメニューからInstall Word pluginを実行するとAppleScriptがインストールされる
 引用箇所でCommand+Control+iを叩いて引用を作成。文献リスト作成箇所ではCommand+Control+b。
 PDFから適宜データを取り込んでくれるというふれこみだが、うまくいかなかった。不完全なデータの手直しは不便に感じられた。

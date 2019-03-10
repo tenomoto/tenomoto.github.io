@@ -20,7 +20,8 @@ tags:
   - VTK
 ---
 MacPortsでvtk5をインストール．デフォルトは，Cocoa．X11ではコンパイルに失敗した．まずは，お手軽にTclで球を描いてファイルに保存．次のスクリプトを適当な名前（例えばsphere1.tcl）で保存して，実行（vtk sphere1.tcl）．
-<pre>
+
+```tcl
 package require vtk
 
 vtkSphereSource sphere
@@ -34,4 +35,5 @@ vtkPolyDataWriter writer
         writer Write
 
 sphere Delete
-writer Delete</pre>
+writer Delete
+```

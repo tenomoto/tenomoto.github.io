@@ -21,4 +21,6 @@ tags:
   - Mac
   - TeX
 ---
-2012年10月23日のKeynoteでiBooks Author 2が発表された．<!--more-->このバージョンからLaTeXまたはMathMLでの数式の入力が可能になった． 数式を入力するには，メニューから挿入&gt;方程式...を選ぶか，キーボードでショートカットキー Command + Option +Eをタイプする．最初から数式モードになっているので，ダイアログにLaTeXのコマンドを打てばよい．¥はの代わりには使えない． <a href="http://support.apple.com/kb/HT5321?viewlocale=ja_JP">ドキュメント</a>によると，iBooks Authors 2の数式機能はblahtexを使用している．blahtexの<a href="http://gva.noekeon.org/blahtexml/blahtexml-0.9-doc.pdf">マニュアル</a>によると，デフォルトはdisplaymath（独立数式）．文中の数式にするには，$$か()で囲めばよい．
+2012年10月23日のKeynoteでiBooks Author 2が発表された．<!--more-->
+
+このバージョンからLaTeXまたはMathMLでの数式の入力が可能になった． 数式を入力するには，メニューから挿入&gt;方程式...を選ぶか，キーボードでショートカットキー Command + Option +Eをタイプする．最初から数式モードになっているので，ダイアログにLaTeXのコマンドを打てばよい．¥はの代わりには使えない． <a href="http://support.apple.com/kb/HT5321?viewlocale=ja_JP">ドキュメント</a>によると，iBooks Authors 2の数式機能はblahtexを使用している．blahtexの<a href="http://gva.noekeon.org/blahtexml/blahtexml-0.9-doc.pdf">マニュアル</a>によると，デフォルトはdisplaymath（独立数式）．文中の数式にするには，$$か()で囲めばよい．

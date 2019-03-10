@@ -19,12 +19,16 @@ categories:
 tags:
   - C
 ---
-<pre>
-#include &lt;iostream&gt;
+<!--more-->
+
+```c++
+#include <iostream>
 using namespace std;
 
 int main()
 {
-    std::cout &lt;&lt; "Hello, World!" &lt;&lt; std::endl;
-}</pre>
+    std::cout << "Hello, World!" << std::endl;
+}
+```
+
 名前空間std::が必要な今日この頃．

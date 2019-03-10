@@ -21,7 +21,8 @@ tags:
   - g95
 ---
 半径を入力して円の面積を求めるプログラムは次の通り.
-<pre>
+
+```fortran
 program area
  implicit none
 
@@ -31,10 +32,12 @@ program area
  print *, "Enter radius"
  read *, r
  print *, "radius=", r, "area=", pi*r**2
-end program area</pre>
-プログラムはprogramで始まり, programで終わる. プログラム名をここではareaとした. implicit noneは全ての変数を陽に宣言することを示している. Fortranでは, 宣言なしに変数を使うこともできるが, バグを防止するため, implicit noneは必ずつけるようにする.
+end program area
+```
 
-realは実数の宣言. parameterは定数であるという属性. 変数rにキーボードから値を入力してもらい結果を表示する.
+プログラムは`program`で始まり, `end program`で終わる. プログラム名をここでは`area`とした. `implicit none`は全ての変数を陽に宣言することを示している. Fortranでは, 宣言なしに変数を使うこともできるが, バグを防止するため, `implicit none`は必ずつけるようにする.
+
+`real`は実数の宣言. `parameter`は定数であるという属性. 変数rにキーボードから値を入力してもらい結果を表示する.
 
 入力を促すprint文だけでなく, 確認のため入力された値を表示すると間違えが少なくなる.
 

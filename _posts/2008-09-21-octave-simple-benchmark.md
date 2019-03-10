@@ -21,6 +21,7 @@ tags:
   - Octave
 ---
 MATLABを使った精度保証付き演算を紹介している荻田さんの<a href="http://lab.twcu.ac.jp/ogita/math/matlab/smpmatlab.htm">ページ</a>にある方法
+
 <pre> n=2000; A=randn(n); B=randn(n);
 tic; C=A*B; t=toc, MFLOPS=2*n^3/t*1e-6</pre>
 でMacの演算性能を測ってみた．MATLABは持っていないので，<a href="http://www.macports.org/">MacPorts</a>でインストールした<a href="http://www.octave.org/">Octave</a> (octave @2.9.15_0+g95+ptex+test)を用いた．

@@ -20,4 +20,10 @@ tags:
   - macports
   - NCL
 ---
-<a href="http://www.ncl.ucar.edu/">ncl</a>のソースが公開されて随分経つが, ソースのコンパイルは先延ばしにしてきた. ついに, Portfileを作成してコミットした. ビルドシステムは, configureやCMakeではなく, 独自cshスクリプトとymakeだが案外順調に進んだ.<div><br /></div><div>HDFのヘッダをhdf/mfhdf.hで参照しているので, hdf/を削除するというパッチは必要だった. g2clibはwgrib2のものを使った. hdfeosにはPortfileを書いた. gcc43が既定のfortranコンパイラとなったが, +g95でg95でもコンパイルできる.<div><br /></div><div>BLASのコンパイルに時間をかけているが, Macにはaccelerateフレームワークがあるから無駄なような気がする. でも, 最初は安全重視でncarg添付のものを使った.</div></div>
+<a href="http://www.ncl.ucar.edu/">ncl</a>のソースが公開されて随分経つが, ソースのコンパイルは先延ばしにしてきた. ついに, Portfileを作成してコミットした. 
+
+ビルドシステムは, configureやCMakeではなく, 独自cshスクリプトとymakeだが案外順調に進んだ.
+
+HDFのヘッダをhdf/mfhdf.hで参照しているので, hdf/を削除するというパッチは必要だった. g2clibはwgrib2のものを使った. hdfeosにはPortfileを書いた. gcc43が既定のfortranコンパイラとなったが, +g95でg95でもコンパイルできる.
+
+BLASのコンパイルに時間をかけているが, Macにはaccelerateフレームワークがあるから無駄なような気がする. でも, 最初は安全重視でncarg添付のものを使った.

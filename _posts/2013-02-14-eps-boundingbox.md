@@ -21,7 +21,9 @@ tags:
   - macports
   - NCL
 ---
-nclが生成するepsのBoundingBoxは，<a href="http://www.ncl.ucar.edu/Applications/resize.shtml">レターサイズに固定</a>されている（追記あり）。<!--more-->エディタでepsファイルを見てみると，
+nclが生成するepsのBoundingBoxは，<a href="http://www.ncl.ucar.edu/Applications/resize.shtml">レターサイズに固定</a>されている（追記あり）。<!--more-->
+
+エディタでepsファイルを見てみると，
 <pre>%%BoundingBox: 0 40 612 758</pre>
 となっている。gsnMaximizeを指定していも，縦または横に余分な空白が空いてしまう。そこで，BoundingBoxを再計算して，空白を除去したい。
 

@@ -20,4 +20,8 @@ tags:
   - macports
   - Tcl
 ---
-Tigerで更新したportsのチェックをしようとしたところ，<br /><pre>alloc: invalid block</pre><br />というエラーが出た．Tclから出ているらしい．<br /><pre>export MACOS_DEPLOYMENT_TARGET=10.4</pre><br />としたらエラーは出なくなった.<br /><br />しかしコンパイル時にバスエラーが出る．<br />TigerはもうMacPortsではサポートしていないが，明らかに何かおかしい．
+Tigerで更新したportsのチェックをしようとしたところ，
+`alloc: invalid block`というエラーが出た．Tclから出ているらしい．
+
+`export MACOS_DEPLOYMENT_TARGET=10.4`としたらエラーは出なくなった.
+しかしコンパイル時にバスエラーが出る．TigerはもうMacPortsではサポートしていないが，明らかに何かおかしい．

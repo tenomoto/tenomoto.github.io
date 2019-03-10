@@ -12,7 +12,9 @@ tags:
   - Mac
   - macports
 ---
-MacPortsは，OSのバージョンを上げたら入れ直し（migration）が必要。OS X El Capitanにアップグレードしたので，MacPortsを入れ直す。<!--more-->
+MacPortsは，OSのバージョンを上げたら入れ直し（migration）が必要。OS X El Capitanにアップグレードしたので，MacPortsを入れ直す。
+<!--more-->
+
 <h3>1.　はじめに</h3>
 El Capitanにアップグレードしたマシンでportコマンドを実行すると，
 <pre>$ ~ takeshi$ sudo port -d selfupdate

@@ -20,5 +20,7 @@ tags:
   - CXX
 ---
 Cのmallocを使ってもいいが，C++ではnew演算子を使う．
+
 <pre>float* x = new float[n];</pre>
+
 配列は，やっぱりFortranが便利．

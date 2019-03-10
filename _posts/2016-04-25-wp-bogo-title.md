@@ -14,6 +14,7 @@ tags:
 ---
 WordPressのプラグインbogoは，ややこしくせずにサイトを多言語化できる。サイトのタイトルとキャッチフレーズを多言語にするには，テーマを編集する必要がある。
 <!--more-->
+
 <h4>子テーマの作成</h4>
 編集したテーマをアップグレードすると，改変部分は消えてしまうので，<a href="https://wpdocs.osdn.jp/子テーマ">子テーマ</a>を作成する。子テーマを作るには，<code>wp-content/themes</code>にディレクトリを作り，テーマに必須の<code>style.css</code>を作成する。スタイルシートはスタイルシートヘッダで開始する。<code>Template</code>に親テーマの<code>Text Domain</code>を書く。子テーマで定義されたスタイルや関数は親テーマのものを上書きして用いられる。子テーマを作るだけなら，<code>Text Domain</code>は必須ではないが，関数から参照するので<code>Text Domain</code>を記述しておく。親テーマに<code>-child</code>をつけるのが慣例のようである。
 

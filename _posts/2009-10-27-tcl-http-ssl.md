@@ -20,7 +20,7 @@ tags:
   - Tcl
 ---
 SSLでログインしたあと, ファイルをダウンロードするためのTclスクリプトを書いてみる. wgetやcurlを使ってもよいが, tlsパッケージを併用するとhttpでSSL (https) が扱える.
-<div>
+
 <pre>
 package require http
 package require tls
@@ -52,4 +52,3 @@ $meta(Location)にURLが入っているはず.
 set tok3 [::http::geturl $meta(Location) -channel $f -headers [list Cookie [join $cookies {;}]]]
 ::http::cleanup $tok2
 ::http::cleanup $tok3</pre>
-</div>

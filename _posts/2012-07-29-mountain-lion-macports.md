@@ -21,6 +21,7 @@ tags:
   - macports
 ---
 AppStoreからXcode 4.4をダウンロード．<!--more-->
+
 Xcodeを起動．Xcode &gt; Preferences &gt; DownloadsでCommand Line Toolsをインストール．
 Xcodeのライセンスを確認．
 <pre>$ sudo xcodebuild -license</pre>

@@ -19,4 +19,16 @@ categories:
 tags:
   - GrADS
 ---
-同僚がついにiMac G5への移行を開始。<div>PowerPCなので、g95に必要なodcctoolsのコンパイルがうまくいかないのではと思ったが、odcctoolsはLeopardでは不要だったので、問題なくg95がインストールできた。</div><div><br /></div><div>gradsのインストールをしていたので、gradsのPortfileを見直したところ、/usr/includeや/usr/libを参照していて美しくない。いろいろと手を入れた。</div><div><br /></div><div><ul><li>zlibを使っていたようなので、zlibへの依存を記述。</li><li>libwmfはprintimの時だけに必要なので、ベタ書きされていたのを削除。</li><li>パッチに.diffの拡張子をつけた。</li><li>Finkのパッケージを参考にして、gx.hにある/usr/localにべた書きで参照しているところを${prefix}に変更。</li><li>gxhpng.cにgcCompareInt()中身がないので、Redhatのパッケージを参考にして中身を記述。</li><li>hdf4に対応。hdf4パッケージもコミット。</li></ul></div>
+同僚がついにiMac G5への移行を開始。
+
+PowerPCなので、g95に必要なodcctoolsのコンパイルがうまくいかないのではと思ったが、odcctoolsはLeopardでは不要だったので、問題なくg95がインストールできた。
+
+
+gradsのインストールをしていたので、gradsのPortfileを見直したところ、/usr/includeや/usr/libを参照していて美しくない。いろいろと手を入れた。
+
+* zlibを使っていたようなので、zlibへの依存を記述。
+* libwmfはprintimの時だけに必要なので、ベタ書きされていたのを削除。
+* パッチに.diffの拡張子をつけた。
+* Finkのパッケージを参考にして、gx.hにある/usr/localにべた書きで参照しているところを${prefix}に変更。
+* gxhpng.cにgcCompareInt()中身がないので、Redhatのパッケージを参考にして中身を記述。
+* hdf4に対応。hdf4パッケージもコミット。

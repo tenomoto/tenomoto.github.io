@@ -21,6 +21,5 @@ tags:
   - 消防
   - 車
 ---
-<a href="https://www.enomosphere.net/wp-content/uploads/2008/11/mmarch.jpg"><img id="BLOGGER_PHOTO_ID_5365248415837814738" style="float: left; margin: 0 10px 10px 0; cursor: hand; width: 150px; height: 200px;" src="https://www.enomosphere.net/wp-content/uploads/2008/11/mmarch-225x300.jpg" alt="" border="0" /></a>
-
-&nbsp;
+<!--more-->
+<a href="/wp-content/uploads/2008/11/mmarch.jpg"><img id="BLOGGER_PHOTO_ID_5365248415837814738" style="float: left; margin: 0 10px 10px 0; cursor: hand; width: 150px; height: 200px;" src="/wp-content/uploads/2008/11/mmarch-225x300.jpg" alt="" border="0" /></a>

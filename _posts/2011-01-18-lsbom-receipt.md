@@ -21,5 +21,6 @@ tags:
   - Mac
 ---
 MacPorts-develでMac OS X 10.6.6で多数の/usrのファイルが追加または更新されたことが話題になった．更新されたファイルの確認は，lsbomでできる．忘れそうなのでメモ．
+  
 <pre>
 $ lsbom /var/db/receipts/com.apple.pkg.update.os.10.6.6.patch.bom | grep /usr</pre>

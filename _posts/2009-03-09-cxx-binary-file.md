@@ -19,12 +19,17 @@ categories:
 tags:
   - CXX
 ---
-<pre>#include &lt;fstream&gt;
+<!--more-->
+
+```c++
+#include <fstream>
 
 std::ifstream f;
 
 f.open(filename, std::ios::in | std::ios::binary);
 f.seekg(pos);
 f.read((char*)data, size);
-f.close();</pre>
+f.close();
+```
+
 openするときの二つ目の引数がポイント．

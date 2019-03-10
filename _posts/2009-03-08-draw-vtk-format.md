@@ -20,6 +20,7 @@ tags:
   - VTK
 ---
 vtkinteractionを使う一部のサンプルでBus errorやSegmentation Faultが出る．VTK-5.2.1に更新したがだめだった．仕方がないので，単に表示してしばらくしたら終了するようにした．仮に動作しても，表示はParaViewの方がおそらく便利．
+
 <pre>
 #!/bin/sh
 # ¥

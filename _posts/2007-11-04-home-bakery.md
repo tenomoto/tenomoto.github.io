@@ -18,14 +18,10 @@ image: /wp-content/uploads/2007/11/bbread-672x372.jpg
 categories:
   - 料理
 ---
-<a href="https://www.enomosphere.net/wp-content/uploads/2007/11/bbread.jpg"><img id="BLOGGER_PHOTO_ID_5365255082702789762" style="float: left; margin: 0 10px 10px 0; cursor: hand; width: 200px; height: 150px;" src="https://www.enomosphere.net/wp-content/uploads/2007/11/bbread-300x225.jpg" alt="" border="0" /></a>民主小沢党首辞任を決意のニュース速報にinspireされて、はじめてのパン作りを決意。
-<div>
+民主小沢党首辞任を決意のニュース速報にinspireされて、はじめてのパン作りを決意。
 
 堀井和子著「うちで焼くパン」を見ながら記事を準備。
 記者会見の遅れとともに、生地は発酵していった。
+<a href="/wp-content/uploads/2007/11/bbread.jpg"><img style="float: left; margin: 0 10px 10px 0; cursor: hand; width: 200px; height: 150px;" src="/wp-content/uploads/2007/11/bbread-300x225.jpg" alt="" border="0" /></a>
 
 いつかもっと大きなふっくらとしたパンを焼いてみたいが、最初はこんなもんでしょう。
-
-<span style="color: #0000ee; text-decoration: underline;"> </span>
-
-</div>

@@ -17,6 +17,8 @@ tags:
   - macports
   - Maxima
 ---
-MacPortsのMaximaが標準で使っているLispはSBCL．SBCLの場合は．rmaximaが<a href="http://maxima.sourceforge.net/lisp.html">推奨</a>されている．<!--more-->rlwrapを介してコマンドライン編集ができるようになる．rlwrapも別途インストールする必要がある．
+MacPortsのMaximaが標準で使っているLispはSBCL．SBCLの場合は．rmaximaが<a href="http://maxima.sourceforge.net/lisp.html">推奨</a>されている．<!--more-->
+
+rlwrapを介してコマンドライン編集ができるようになる．rlwrapも別途インストールする必要がある．
 
 REDUCEもフリーになっていることを知ったが，MacPortsでインストールはできたものの，起動方法が分からなかった．

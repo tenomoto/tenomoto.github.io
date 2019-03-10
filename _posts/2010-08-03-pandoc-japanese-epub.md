@@ -21,6 +21,7 @@ tags:
   - pandoc
 ---
 pandocでepubを作る時, metadata.xmlに言語を指定できるが, content.opfに書き込まれるだけで, 個々のxhtmlには言語は指定されない. このままだとAdobe Digital Editionsでは文字化けしてしまう. 横浜工文社のbatスクリプトを参考にpandocが生成したepubを解凍, xhtmlを編集, 再びepubにまとめるスクリプトを作成した.
+
 <pre>
 #!/bin/sh
 epub=$1

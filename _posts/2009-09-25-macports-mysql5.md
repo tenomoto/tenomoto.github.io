@@ -20,23 +20,33 @@ tags:
   - macports
   - MySQL
 ---
-<div>mysql5のインストール</div>
-&nbsp;
+<!--more-->
+
+## mysql5のインストール
+
 <pre>sudo port install mysql5</pre>
 サーバとして使うにはmysql5-serverもインストールする.
-<div>
-<div>データベース格納用ディレクトリの作成</div>
+
+## データベース格納用ディレクトリの作成
+
 <pre>sudo mkdir -p /opt/local/var/db/mysql5
 sudo chown mysql /opt/local/var/db/mysql5</pre>
-<div>プロセスIDファイル用ディレクトリの作成</div>
+
+## プロセスIDファイル用ディレクトリの作成
+
 <pre>sudo mkdir -p /opt/local/var/run/mysql5
 sudo chown mysql /opt/local/var/run/mysql5</pre>
-<div>初期化</div>
+
+## 初期化
 <pre>sudo -u mysql mysql_install_db5</pre>
 <div>起動</div>
 <pre>sudo /opt/local/share/mysql5/mysql/mysql.server start</pre>
-<div>起動の確認</div>
+
+## 起動の確認
+
 <pre>mysql5 -u root</pre>
-<div>パスワード変更</div>
+
+## パスワード変更
+
 <pre>/opt/local/lib/mysql5/bin/mysqladmin -u root password 'password'</pre>
-</div>
+

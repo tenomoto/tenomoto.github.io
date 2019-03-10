@@ -21,6 +21,8 @@ tags:
   - macports
 ---
 新・OS XハッキングでGNU enscriptが紹介されていた．MacPortsで探してみる．
+<!--more-->
+
 <pre>
 $ port search enscript
 enscript @1.6.4 (print)

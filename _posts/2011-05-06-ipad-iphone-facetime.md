@@ -20,4 +20,7 @@ tags:
   - iPad
   - iPhone
 ---
-iPadからiPhoneにFaceTimeで発信する場合，iPhoneの電話番号を利用する．iPhone電話番号は国番号から入力する必要がある．<a href="http://manuals.info.apple.com/ja_JP/ipad_2_user_guide_j.pdf">iPad 2ユーザーズガイド</a>にある通り，iPhone電話番号は国番号から入力する必要がある．
+iPadからiPhoneにFaceTimeで発信する場合，iPhoneの電話番号を利用する．
+<!--more-->
+
+iPhone電話番号は国番号から入力する必要がある．[iPad 2ユーザーズガイド](http://manuals.info.apple.com/ja_JP/ipad_2_user_guide_j.pdf)にある通り，iPhone電話番号は国番号から入力する必要がある．

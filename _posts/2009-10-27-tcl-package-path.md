@@ -21,6 +21,7 @@ tags:
   - Tcl
 ---
 Mac OS X添付の/usr/bin/tclshは, ~/Library/Tclにパッケージをおけば見つけてくれる.
+
 MacPortsでインストールした/opt/local/bin/tclshは,
 <pre>
 $ /opt/local/bin/tclsh

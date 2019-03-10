@@ -20,4 +20,6 @@ tags:
   - Haskell
   - Mac
 ---
-Haskell-platform 2011.4をインストールした．<!--more-->パッケージをインストール途中，ghcが/Developer/usr/bin/gccがないと言って止まる．/usr/bin/ghcはシェルスクリプトで，ここにgccへのパスが書いてある．Xcode-4.3からXcodeはただのアプリケーションになったので，/Developerは/Applications/Xcode.app/Contents/Developerに移動．でも長ったらしいので，/usr/bin/gccとしておいた．/usr/bin/clangにしてみたが，コンパイルはうまくいかない．なお，/usr/bin/ghcはシンボリックリンク．
+Haskell-platform 2011.4をインストールした．<!--more-->
+
+パッケージをインストール途中，ghcが/Developer/usr/bin/gccがないと言って止まる．/usr/bin/ghcはシェルスクリプトで，ここにgccへのパスが書いてある．Xcode-4.3からXcodeはただのアプリケーションになったので，/Developerは/Applications/Xcode.app/Contents/Developerに移動．でも長ったらしいので，/usr/bin/gccとしておいた．/usr/bin/clangにしてみたが，コンパイルはうまくいかない．なお，/usr/bin/ghcはシンボリックリンク．

@@ -20,4 +20,6 @@ tags:
   - GDL
   - macports
 ---
-gnudatalanguageのPortfileには問題はないが, +universalが失敗することがある.<div><br /></div><div>これは, python25+universalがuniversalとは言っても, i386とppcの2種類のアーキテクチャ用のバイナリをつくるため (<a href="http://trac.macports.org/ticket/17501">r17501</a>). Intel Macでsources.confのuniversal_archsにx86_64が入っていてもi386とppc用に作られてしまう.</div>
+gnudatalanguageのPortfileには問題はないが, +universalが失敗することがある.
+
+これは, python25+universalがuniversalとは言っても, i386とppcの2種類のアーキテクチャ用のバイナリをつくるため (<a href="http://trac.macports.org/ticket/17501">r17501</a>). Intel Macでsources.confのuniversal_archsにx86_64が入っていてもi386とppc用に作られてしまう.

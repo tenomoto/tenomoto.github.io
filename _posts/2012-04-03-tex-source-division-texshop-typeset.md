@@ -21,7 +21,10 @@ tags:
   - TeX
   - TeXShop
 ---
-長い書き物をするとき、TeXのソースはいくつかのファイルに分割することが多い。ルートファイルroot.texにinput{foo}を使って、foo.texの中身を取り込む。
+長い書き物をするとき、TeXのソースはいくつかのファイルに分割することが多い。
+<!--more-->
+
+ルートファイルroot.texにinput{foo}を使って、foo.texの中身を取り込む。
 コマンドラインだとMakefileに依存関係を書いておくと楽。でも、ちょっと面倒。<a href="http://d.hatena.ne.jp/hayamiz/20081208/1228727272">omake</a>で更新のたびに自動的にタイプセットすることもできる。
 <a href="http://pages.uoregon.edu/koch/texshop/">TeXShop</a>では、foo.texを編集しているときにタイプセットをクリック、またはCommand+Tしてfoo.tex自体をコンパイルしてしまうことがある。
 foo.texの冒頭に

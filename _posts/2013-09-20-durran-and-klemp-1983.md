@@ -15,9 +15,11 @@ categories:
 tags:
   - PSTricks
 ---
+今時は<a href="http://www.texample.net">TikZ</a>を使うべきなのかもしれないが，慣れているPStricksで作成。<!--more-->
+
 <img src="http://media.tumblr.com/bd8d57903d23342f27b4bf359042177b/tumblr_inline_mtenf1kePi1s0tikq.png" alt="" />
 
-今時は<a href="http://www.texample.net">TikZ</a>を使うべきなのかもしれないが，慣れているPStricksで作成。<!--more--><code>readtata</code>で読んで<code>dataplot</code>で描くデータはOctaveで作ったが，何を使っても構わない。形式は，<code>(x1, y1) (x2, y2), ...</code>。
+<code>readtata</code>で読んで<code>dataplot</code>で描くデータはOctaveで作ったが，何を使っても構わない。形式は，<code>(x1, y1) (x2, y2), ...</code>。
 <pre><code>documentclass{article}
 
 usepackage{pstricks}

@@ -20,7 +20,9 @@ tags:
   - macports
   - TeX
 ---
-ずっとMacPortsでptexを使ってきた． <!--more--><a href="https://svn.macports.org/repository/macports/trunk/dports/tex/blahtexml/Portfile">blahtexml</a>のPortfileを書いているときに，manual.pdfの生成にucs.styが必要となった．ちょっと調べてみると，texlive-latex-extraに入ってることが分かった．MacPortsのTeXLiveパッケージの中身は，この<a href="http://trac.macports.org/wiki/TeXLivePackages">ページ</a>にまとめられている。ついでにTeXLive 2011でptexが含まれるようになったことが分かった．
+ずっとMacPortsでptexを使ってきた． <!--more-->
+
+<a href="https://svn.macports.org/repository/macports/trunk/dports/tex/blahtexml/Portfile">blahtexml</a>のPortfileを書いているときに，manual.pdfの生成にucs.styが必要となった．ちょっと調べてみると，texlive-latex-extraに入ってることが分かった．MacPortsのTeXLiveパッケージの中身は，この<a href="http://trac.macports.org/wiki/TeXLivePackages">ページ</a>にまとめられている。ついでにTeXLive 2011でptexが含まれるようになったことが分かった．
 <pre>$ sudo port -d install texlive-lang-cjk</pre>
 とするとtexlive一式とtexlive-lang-cjkがインストールされ，platexで日本語が扱える．さらに，uptexも入っている．テストとしてhello.texを準備し，
 <pre></pre>

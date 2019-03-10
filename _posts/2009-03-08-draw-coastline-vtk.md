@@ -20,6 +20,7 @@ tags:
   - VTK
 ---
 vtkEarthSourceで海岸線付きの球が描ける．SetOnRatioの既定は10で1が一番細かい．日本の形状は少しまともになるが，北海道，四国，九州が出てこない...
+
 <pre>
 package require vtk
 

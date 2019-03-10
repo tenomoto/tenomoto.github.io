@@ -20,7 +20,6 @@ categories:
 tags:
   - Mac OS X Server
 ---
-<a href="https://www.enomosphere.net/wp-content/uploads/2010/12/IMG_1062.jpg"><img id="BLOGGER_PHOTO_ID_5552752046786191186" style="float: right; margin: 0 0 10px 10px; cursor: hand; width: 150px; height: 200px;" src="https://www.enomosphere.net/wp-content/uploads/2010/12/IMG_1062-225x300.jpg" alt="" border="0" /></a>
 SSDを起動ディスクにしたXserveは起動が速いと同様に進めていたからか,
 同僚がSSDを搭載したXserveを発注しようとしたところ,
 SSDを追加できなくなっていた.
@@ -28,5 +27,7 @@ SSDを追加できなくなっていた.
 アップルに問い合わせをしたが, カスタマイズでのSSDの追加は終了とのこと.
 
 どうも1週間くらい前に密かに終了していたようだ.
-<div></div>
-<div>写真はXserveのSSD周辺. iPhone 3Gで撮影した最後の写真.</div>
+
+<a href="/wp-content/uploads/2010/12/IMG_1062.jpg"><img id="BLOGGER_PHOTO_ID_5552752046786191186" style="float: right; margin: 0 0 10px 10px; cursor: hand; width: 150px; height: 200px;" src="/wp-content/uploads/2010/12/IMG_1062-225x300.jpg" alt="" border="0" /></a>
+
+写真はXserveのSSD周辺. iPhone 3Gで撮影した最後の写真.

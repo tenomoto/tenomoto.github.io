@@ -20,10 +20,11 @@ tags:
   - ImageMagick
 ---
 Exif情報も一種の個人情報. ImageMagickでExifなどを消すには,
-<div></div>
-<div>-strip strip image of all profiles and comments</div>
-<div></div>
-<div>オプションを使う.</div>
-<div></div>
-<div>convert -strip foo.jpg foo_strip.jpg</div>
-<div></div>
+
+-strip strip image of all profiles and comments
+
+オプションを使う.
+
+```bash
+convert -strip foo.jpg foo_strip.jpg
+```
