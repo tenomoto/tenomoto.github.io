@@ -1,0 +1,23 @@
+---
+id: 166
+title: 蓮池流韓国語入門
+date: 2008-11-09T12:53:00+09:00
+author: takeshi
+layout: post
+guid: 'https://www.enomosphere.net/2008/11/09/%e8%93%ae%e6%b1%a0%e6%b5%81%e9%9f%93%e5%9b%bd%e8%aa%9e%e5%85%a5%e9%96%80/'
+permalink: /2008/11/09/intro-korean-hasuike/
+blogger_blog:
+  - hiyokoz.blogspot.com
+blogger_author:
+  - Takeshi
+blogger_permalink:
+  - /2008/11/blog-post_09.html
+blogger_internal:
+  - /feeds/832545220475396382/posts/default/5566844063064774363
+categories:
+  - ことば
+  - 書評
+tags:
+  - 韓国語
+---
+<iframe style="width: 120px; height: 240px;" src="http://rcm-jp.amazon.co.jp/e/cm?t=enomospheddoj-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=416660659X&amp;md=1X69VDGQCMF7Z30FM082&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" align="right"></iframe>蓮池さんがいかにして韓国語をマスターしたかという体験に基づいて書かれたもので、ハングルの読み書きから始まる通常の入門書とは構成が異なっている。学生時代に没頭したという英語よりも早くマスターできたのはなぜかということから書き起こされており、後半の「実践編」にハングルのなりたちや発音の注意が登場する。前半では、韓国語と日本語との類似点を例文をあげて示している。ハングルを全く知らない読者は面食らうかもしれないが、すべてカナがふってあるので、細かいところは気にせずに読み進めれば、著者が強調している類似点の面白さをまず大掴みすることができる。ハングルの基礎を学習した中級者は例文もじっくり読むと勉強になる。通勤通学時でも気楽に読める新書版であり、ハングル学習者のサブテキストとして好適。通常のテキストでは取り上げられることの少ない「労働新聞」に頻出する表現等、北ならでは言い回しが出ていることもユニーク。ちなみに「労働（로동）」は南では「ノドン」だが北では「ロドン」と読ませている。最初に登場したときに、南北の発音の差についての注意もあると良かったが、韓国語学習のガイドという前半の目的からすると瑣末なのかもしれない。後半の「実践編」には語頭のㄹの話も登場する。
