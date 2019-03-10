@@ -74,4 +74,19 @@ $ sudo bin/restore_ports.tcl myports_yosemite.txt</pre>
 リクエストの状態を復元する。
 <pre class="wiki">$ sudo port unsetrequested installed
 $ xargs sudo port setrequested &lt; requested_yosemite.txt</pre>
-&nbsp;
+
+jason より:	
+
+2015年12月16日 5:06 PM
+
+非常に助かりました。今は、Migrationをしている最中….
+
+ピンバック: [【Mac OSX】El CapitanでMacPortsをインストール |](http://atomicbox.tank.jp/developer/1226/)
+
+## 「OS X El CapitanにアップグレードしたのでMacPortsを入れ直し」への2件のフィードバック
+
+### jason より:	
+
+2015年12月16日 5:06 PM
+
+非常に助かりました。今は、Migrationをしている最中….
