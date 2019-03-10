@@ -2,3 +2,5 @@ url: https://www.enomosphere.net
 name: ひよこっ!
 description: 飛ばないハトはひよこも同然
 theme: minima
+exclude:
+  - .gitignore

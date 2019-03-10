@@ -11,6 +11,6 @@ classic-editor-remember:
 <h2><a href="https://www.sqlite.org">SQLite</a>のメモ</h2>
 ドキュメントの拙訳
 <ul>
- 	<li><a href="/sqlite/quickstart/">SQLiteを5分以内で</a></li>
- 	<li><a href="/sqlite/cli/">コマンドラインシェル（sqlite3.exe）</a></li>
+ 	<li><a href="/sqlite/quickstart.html">SQLiteを5分以内で</a></li>
+ 	<li><a href="/sqlite/cli.html">コマンドラインシェル（sqlite3.exe）</a></li>
 </ul>
