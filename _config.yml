@@ -1,6 +1,8 @@
 url: https://www.enomosphere.net
-name: ひよこっ!
+title: ひよこっ!
 description: 飛ばないハトはひよこも同然
 theme: minima
 exclude:
   - .gitignore
+header_pages:
+  - sqlite.md
