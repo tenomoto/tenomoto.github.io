@@ -9,7 +9,3 @@ header_pages:
 paginate: 5
 minima:
   date_format: "%Y-%m-%d"
-  twitter: takeshi_enomoto
-  github: tenomoto
-show_excerpts: true
-excerpt_separator: <!--more-->
