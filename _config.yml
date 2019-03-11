@@ -12,3 +12,4 @@ minima:
   twitter: takeshi_enomoto
   github: tenomoto
 show_excerpts: true
+excerpt_separator: <!--more-->
