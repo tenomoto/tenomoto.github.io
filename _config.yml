@@ -6,7 +6,7 @@ exclude:
   - .gitignore
 header_pages:
   - sqlite.md
-pagenate: 5
+paginate: 5
 minima:
   date_format: "%Y-%m-%d"
   twitter: takeshi_enomoto
