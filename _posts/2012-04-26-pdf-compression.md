@@ -20,7 +20,17 @@ tags:
   - macports
   - PDF
 ---
-<a href="http://code.google.com/p/pdfsizeopt/">pdfsizeopt</a>でPDFの圧縮を試みる。
+## 2019/3/22追記
+
+情報が古くなっいます。
+[pdfsizeopt](https://github.com/pts/pdfsizeopt)に従ってインストールしてください。sam2pなども含まれています。
+ただしあまり圧縮できませんでした。
+
+macOSの場合は[Quartzフィルタ](/2019/03/22/quartz-filter/)を利用した方が良いです。
+
+---
+
+<a href="https://github.com/pts/pdfsizeopt">pdfsizeopt</a>でPDFの圧縮を試みる。
 
 jbig2enc, sam2pをMacPortsからインストール。
 
