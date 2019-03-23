@@ -17,7 +17,8 @@ Macではプレビューのファイル>書き出す...のダイアログで，�
 Reduce File Sizeは，Quartzフィルタの一つで`/System/Library/Filters/Reduce File Size.qfilter`にある。コピーを`~/Library/Filters`に保存する。
 
 * 圧縮率（Compression Quality）を上げる（0〜1, 例: 0.75）。
-* 縮尺率（ImageScaleFactor）を大きくする（0〜1, 例: 0.75）。
+* 縮尺率（ImageScaleFactor）を大きくする（0〜1, ColorSyncユーティリティは0〜100%）。
+* 解像度（ImageResolution）を設定する（dpi, 例: 50あるいは300）。
 * 画像の最大サイズ（ImageSizeMax）と最小サイズ（ImageSizeMin）を大きくする（ピクセル, 例: 2048と1024）。
 
 ColorSyncユーティリティでも同じことができる。
